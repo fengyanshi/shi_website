@@ -5,10 +5,12 @@
 
 FENGYAN SHI
 =================================
+Center for Applied Coastal Research
+Department of Civil and Environmental Engineering
+University of Delaware
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    publication
 
