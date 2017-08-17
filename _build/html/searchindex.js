@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","publication"],envversion:51,filenames:["index.rst","publication.rst"],objects:{},objnames:{},objtypes:{},terms:{"public":0,content:0,index:0,modul:0,page:0,search:0},titles:["Fengyan Shi","PUBLICATION"],titleterms:{"public":1,fengyan:0,indic:0,shi:0,tabl:0}})
