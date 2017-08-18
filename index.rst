@@ -15,9 +15,4 @@ FENGYAN SHI
    publication
    funwave
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
