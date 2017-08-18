@@ -14,5 +14,3 @@ FENGYAN SHI
 
    publication
    funwave
-
-* :ref:`search`
