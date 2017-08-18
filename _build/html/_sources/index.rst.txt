@@ -13,6 +13,7 @@ FENGYAN SHI
    :maxdepth: 2
 
    publication
+   funwave
 
 Indices and tables
 ==================
