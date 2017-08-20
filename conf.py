@@ -77,6 +77,9 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+# show source fyshi
+html_show_sourcelink = False
+
 
 # -- Options for HTML output ----------------------------------------------
 
