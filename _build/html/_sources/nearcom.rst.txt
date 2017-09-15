@@ -1,15 +1,17 @@
-NEARCOM
-===================================
+NearCoM-TVD
+================
 
-.. figure:: images/nearcomtitlebig.gif
-    :width: 700px
-    :align: center
-    :height: 150px
-    :alt: alternate text
-    :figclass: align-center
+.. image:: images/nearcomtitlebig.jpg
 
-.. toctree::
-   :maxdepth: 2
 
-   nearcom_history
-   nearcom_formulation
+---------------------------------------------------------------------------------------------
+`NEARCOM-TVD WIKI  <https://fengyanshi.github.io/NEARCOM-TVD/WIKI/_build/html/index.html>`_
+---------------------------------------------------------------------------------------------
+
+  NEARCOM-TVD WIKI Page is a regularly updated documentation based on Shi et al. (2011), CACR-11-02.
+
+--------------------------------------------------------------------------------------------------------------
+ `Version 2.0 <https://github.com/fengyanshi/NEARCOM-TVD/releases>`_
+--------------------------------------------------------------------------------------------------------------
+
+  Version 2.0 is the initial version uploaded onto GITHUB.
