@@ -3,16 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-FENGYAN SHI
+.. image:: images/head_image.jpg
+
+NUMERICAL LABORATORY
 =================================
-|  Center for Applied Coastal Research
-|  Department of Civil and Environmental Engineering
-|  University of Delaware
+| Learn about FUNWAVE-TVD | NHWAVE | NearCoM
 
 .. toctree::
    :maxdepth: 2
 
    publication
-   funwave
-   nearcom
+   models
+   gallery
+
 
