@@ -12,8 +12,8 @@ NUMERICAL LABORATORY
 .. toctree::
    :maxdepth: 2
 
-   publication
    models
+   publication
    gallery
 
 
