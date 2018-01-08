@@ -16,4 +16,5 @@ NUMERICAL LABORATORY
    publication
    gallery
 
-
+.. raw:: html
+   :file: google_group.html
