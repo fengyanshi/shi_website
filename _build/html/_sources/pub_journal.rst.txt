@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers submitted or in revision:**
 
+#. Tehranirad, B., Kirby, J. T., Shi, F., A model for tsunami-induced morphology adjustment, submitted to Coastal Engineering, May, 2018.
+
 #. Choi, Y.-K., Seo S.-N., Choi, J.-Y., Shi, F., and Park, K.-S., "Long-term wave forecasting in a port using a fully nonlinear Boussinesq wave model", submitted to Acta Oceanologica Sinica, Apr, 2018
 
 #. Choi, Y.-K., Shi, F., Malej, M., and Smith, J. M., "Performances of various shock-capturing solvers in the Boussinesq wave model,FUNWAVE-TVD", submit to Ocean Modelling, May, 2018
