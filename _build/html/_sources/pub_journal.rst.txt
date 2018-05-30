@@ -19,7 +19,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Orzech, M.D., Shi, F.,  Bateman, S.,  Veeramony, J.,  Calantoni, J.,  and Kirby, T.J., 2018,  A coupled system for investigating the physics of wave-ice interactions, submitted to Journal of Atmospheric and Oceanic Technology, in press.
+#. Orzech, M.D., Shi, F.,  Bateman, S.,  Veeramony, J.,  Calantoni, J.,  and Kirby, T.J., 2018,  "A coupled system for investigating the physics of wave-ice interactions", submitted to Journal of Atmospheric and Oceanic Technology, in press.
 
 #. Choi, Y.-K., Seo S.-N., Choi, J.-Y., Shi, F., and Park, K.-S., 2018, "Wave prediction in a port using a fully nonlinear Boussinesq wave model", Acta Oceanologica Sinica, in press
 
