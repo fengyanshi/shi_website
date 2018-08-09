@@ -18,7 +18,7 @@ Journal Publications
 
 #. Schambach, L., Grilli, S. T., Kirby, J. T., and Shi, F., 2018, "Landslide tsunami hazard along the upper US East Coast: effects of slide rheology and bottom friction",  Pure and Applied Geophysics, in press.
 
-#. Wargula, A., Raubenheimer, B., Elgar, S., Chen, J.-L., Shi, F., and Traykovski, P., "Flow asymmetry owing to inertia and waves on an unstratified, shallow ebb shoal", Journal of Geophysical Research: Oceans, in press.
+#. Wargula, A., Raubenheimer, B., Elgar, S., Chen, J.-L., Shi, F., and Traykovski, P., 2018, "Flow asymmetry owing to inertia and waves on an unstratified, shallow ebb shoal", Journal of Geophysical Research: Oceans, in press.
 
 #. Orzech, M.D., Shi, F.,  Bateman, S.,  Veeramony, J.,  Calantoni, J.,  and Kirby, T.J., 2018,  "A coupled system for investigating the physics of wave-ice interactions", Journal of Atmospheric and Oceanic Technology, `doi:10.1175/JTECH-D-17-0189.1 <https://doi.org/10.1175/JTECH-D-17-0189.1>`_.
 
