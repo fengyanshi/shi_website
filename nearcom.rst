@@ -11,7 +11,7 @@ NearCoM-TVD
   NEARCOM-TVD WIKI Page is a regularly updated documentation based on Shi et al. (2011), CACR-11-02.
 
 --------------------------------------------------------------------------------------------------------------
- `Version 2.0 <https://github.com/fengyanshi/NEARCOM-TVD/releases>`_
+ `NEARCOM-TVD GITHUB <https://github.com/fengyanshi/NEARCOM-TVD>`_
 --------------------------------------------------------------------------------------------------------------
 
-  Version 2.0 is the initial version uploaded onto GITHUB.
+  Version 2.0 is the initial version uploaded onto GITHUB. You can download the newest version of NEARCOM-TVD from GITHUB. 
