@@ -14,6 +14,8 @@ FUNWAVE-TVD
 `FUNWAVE-TVD GITHUB  <https://github.com/fengyanshi/FUNWAVE-TVD>`_
 ----------------------------------------------------------------------------
 
+  You can download the newest version of FUNWAVE-TVD from the GITHUB. 
+
 
 --------------------------------------------------------------------------------------------------------------
  `Gallery <https://fengyanshi.github.io/build/html/gallery.html>`_
