@@ -13,7 +13,7 @@ Journal Publications
 
 #. Choi, Y.-K., Shi, F., Seo, S., Malej, M., and Smith, J. M., "Performance of various shock capturing solvers in the Boussinesq wave model FUNWAVE-TVD", submitted to Ocean Modelling, May, 2018
 
-#. Ding, Y. and Shi, F., "An analytical solution for nearshore circulation driven by focused and defocused waves", Aug. 2018
+#. Ding, Y. and Shi, F., "An analytical solution for nearshore circulation driven by focused/defocused waves", Aug. 2018
 
 **Papers in Journals:**
 
