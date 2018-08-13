@@ -17,7 +17,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Lu, Y., Shi, F., Kobayashi, N., Malej, M., Zhu, T., and Feng, W., 2018,  "Numerical investigation of excessive surge induced by wave overtopping in an inlet-bay system", Submitted to Coastal Engineering,  in press. 
+#. Lu, Y., Shi, F., Kobayashi, N., Malej, M., Zhu, T., and Feng, W., 2018,  "Numerical investigation of excessive surge induced by wave overtopping in an inlet-bay system", Coastal Engineering,  in press. 
 
 
 #. Schambach, L., Grilli, S. T., Kirby, J. T., and Shi, F., 2018, "Landslide tsunami hazard along the upper US East Coast: effects of slide rheology and bottom friction",  Pure and Applied Geophysics, in press.
