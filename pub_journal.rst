@@ -19,7 +19,7 @@ Journal Publications
 
 #. Wu, G., Shi, F., Kirby, J. T., Shi, J., and Liang, B., 2018, "Modeling wave effects on storm surge and coastal inundation", Coastal Engineering, `DOI:10.1016/j.coastaleng.2018.08.011 <https://doi.org/10.1016/j.coastaleng.2018.08.011>`_.
 
-#. Lu, Y., Shi, F., Kobayashi, N., Malej, M., Zhu, T., and Feng, W., 2018,  "Numerical investigation of excessive surge induced by wave overtopping in an inlet-bay system", Coastal Engineering,  in press. 
+#. Lu, Y., Shi, F., Kobayashi, N., Malej, M., Zhu, T., and Feng, W., 2018,  "Numerical investigation of excessive surge induced by wave overtopping in an inlet-bay system", Coastal Engineering,  `DOI:10.1016/j.coastaleng.2018.08.009 <https://doi.org/10.1016/j.coastaleng.2018.08.009>`_.
 
 
 #. Schambach, L., Grilli, S. T., Kirby, J. T., and Shi, F., 2018, "Landslide tsunami hazard along the upper US East Coast: effects of slide rheology and bottom friction",  Pure and Applied Geophysics, in press.
