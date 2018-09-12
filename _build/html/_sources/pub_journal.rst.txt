@@ -15,7 +15,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Choi, Y.-K., Shi, F., Seo, S., Malej, M., and Smith, J. M., 2018, "Performance of various shock capturing solvers in the Boussinesq wave model FUNWAVE-TVD", Ocean Modelling, in press
+#. Choi, Y.-K., Shi, F., Seo, S., Malej, M., and Smith, J. M., 2018, "Performance of various shock-capturing-type reconstruction schemes in the Boussinesq wave model, FUNWAVE-TVD", Ocean Modelling, in press
 
 #. Wu, G., Shi, F., Kirby, J. T., Shi, J., and Liang, B., 2018, "Modeling wave effects on storm surge and coastal inundation", Coastal Engineering, `DOI:10.1016/j.coastaleng.2018.08.011 <https://doi.org/10.1016/j.coastaleng.2018.08.011>`_.
 
