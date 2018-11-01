@@ -15,6 +15,7 @@ NUMERICAL LABORATORY
    models
    publication
    gallery
+   members
 
 .. raw:: html
    :file: google_group.html
