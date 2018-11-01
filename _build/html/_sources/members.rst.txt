@@ -8,8 +8,8 @@ Fengyan Shi  | Ocean Engineering Lab, 204   | Tel: x 2449
  Yu Zhang, visiting scholar   | Boussinesq-type model 
  Ye Yuan, visiting scholar   | Tsunamis
  
-Previous members 
-##################
+**Previous members**
+
 
 Yang Lu, Ph.D. (2018)  | Internal hydraulic jump, wave modeling 
  Pancheng Shen, PhD.   | Storm surge, wave-current interaction 
