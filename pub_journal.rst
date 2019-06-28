@@ -24,7 +24,7 @@ Journal Publications
 
 #. Ding, Y. and Shi, F., 2019, "An analytical solution for nearshore circulation driven by focused/defocused waves", China Ocean Engineering, in press
 
-#. Choi Y.-K., Seo S.-N., Choi J.-Y., Shi F., Park K.-S., 2019, "Wave prediction in a port using a fully nonlinear Boussinesq wave model", Acta Oceanologica Sinica, in press.
+#. Choi Y.-K., Seo S.-N., Choi J.-Y., Shi F., Park K.-S., 2019, "Wave prediction in a port using a fully nonlinear Boussinesq wave model", Acta Oceanol. Sin., 38 (7), 1-12.
 
 #. Choi, Y.-K., Shi, F., Malej, M., and Smith, J. M., 2018, "Performance of various shock-capturing-type reconstruction schemes in the Boussinesq wave model, FUNWAVE-TVD", Ocean Modelling, 131, 86-100. `DOI:10.1016/j.ocemod.2018.09.004 <https://doi.org/10.1016/j.ocemod.2018.09.004>`_. 
 
