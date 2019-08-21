@@ -40,8 +40,6 @@ Journal Publications
 
 #. Orzech, M.D., Shi, F.,  Bateman, S.,  Veeramony, J.,  Calantoni, J.,  and Kirby, T.J., 2018,  "A coupled system for investigating the physics of wave-ice interactions", Journal of Atmospheric and Oceanic Technology, `doi:10.1175/JTECH-D-17-0189.1 <https://doi.org/10.1175/JTECH-D-17-0189.1>`_.
 
-#. Choi, Y.-K., Seo S.-N., Choi, J.-Y., Shi, F., and Park, K.-S., 2018, "Wave prediction in a port using a fully nonlinear Boussinesq wave model", Acta Oceanologica Sinica, in press
-
 #. Shi, F., Malej, M., Smith, J. M., and Kirby, J. T., 2018, "Breaking of ship bores in a Boussinesq-type ship-wake model", Coastal Engineering, `doi:10.1016/j.coastaleng.2017.11.002 <https://doi.org/10.1016/j.coastaleng.2017.11.002>`_.
 #. Kukulka, T.,Jenkins, R. L., Kirby, J. T., Shi, F. and Scarborough, R. W., 2017, "Surface wave dynamics in Delaware Bay and its adjacent coastal shelf", Journal of Geophysical Research: Oceans, `doi:10.1002/2017JC013370 <http://dx.doi.org/10.1002/2017JC013370>`_
 #.	Lynett P., et al., 2017, "Inter-Model Analysis of Tsunami-Induced Coastal Currents", Ocean Modelling, `doi:10.1016/j.ocemod.2017.04.003 <http://dx.doi.org/10.1016/j.ocemod.2017.04.003>`_
