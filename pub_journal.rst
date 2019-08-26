@@ -14,12 +14,13 @@ Journal Publications
 #. Liu, W., Ning, Y., Shi, F., and Sun Z., "A 2DH fully dispersive Boussinesq-type model based on a finite-volume and finite-difference TVD-type scheme", submitted to Ocean Modelling, 2019
 
 #. Bao, J., Cai, F., Shi, F., Zheng, Y., Lu, H., Wu, C., "Morphodynamic response of sand waves in the Taiwan Shoal to a passing tropical storm", Marine Geology, 2019, in revision.
-
-#. Zhu, J., Cai, F., Shi, F., Qi, H., Lei, G., Liu, J., Cao, H., and Zheng, J., "Beach response to layout of drainage pipe outlet during beach nourishment", Journal of Coastal Research, 2019, in revision. 
+ 
 
 **Papers in Journals:**
 
 #. Li, L., Shi, F., Ma, G., and Qui, Q., 2019, "Tsunamigenic potential of Baiyun submarine landslide in the South China Sea", Journal of Geophysical Research: Solid Earth,  `DOI:10.1029/2019JB018062 <https://doi.org/10.1029/2019JB018062>`_. 
+
+#. Zhu, J., Cai, F., Shi, F., Qi, H., Lei, G., Liu, J., Cao, H., and Zheng, J., 2019, "Beach response to layout of drainage pipe outlet during beach nourishment", Journal of Coastal Research, 2019, in press.
 
 #. Shi, J., Shi, F., Kirby, J. T., Zheng, J., Zhang, C., and Malej, M., 2019, "Interplay between grid resolution and pressure decimation in non-hydrostatic modeling of  internal waves", Ocean Engineering, `DOI:10.1016/j.oceaneng.2019.06.014 <https://doi.org/10.1016/j.oceaneng.2019.06.014>`_.
 
