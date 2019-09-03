@@ -20,7 +20,7 @@ Journal Publications
 
 #. Li, L., Shi, F., Ma, G., and Qui, Q., 2019, "Tsunamigenic potential of Baiyun submarine landslide in the South China Sea", Journal of Geophysical Research: Solid Earth,  `DOI:10.1029/2019JB018062 <https://doi.org/10.1029/2019JB018062>`_. 
 
-#. Zhu, J., Cai, F., Shi, F., Qi, H., Lei, G., Liu, J., Cao, H., and Zheng, J., 2019, "Beach response to layout of drainage pipe outlet during beach nourishment", Journal of Coastal Research, 2019, in press.
+#. Zhu, J., Cai, F., Shi, F., Qi, H., Lei, G., Liu, J., Cao, H., and Zheng, J., 2019, "Beach response to layout of drainage pipe outlet during beach nourishment", Journal of Coastal Research, `DOI: 10.1016/j.ecss.2019.106354  <https://doi.org/10.1016/j.ecss.2019.106354>`_.
 
 #. Shi, J., Shi, F., Kirby, J. T., Zheng, J., Zhang, C., and Malej, M., 2019, "Interplay between grid resolution and pressure decimation in non-hydrostatic modeling of  internal waves", Ocean Engineering, `DOI:10.1016/j.oceaneng.2019.06.014 <https://doi.org/10.1016/j.oceaneng.2019.06.014>`_.
 
