@@ -3,6 +3,11 @@ Journal Publications
 
 **Papers submitted or in revision:**
 
+#. Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T., Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, Sep., 2019.
+
+#. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., A computationally efficient subgrid model for coupledsurface and groundwater flows, submitted to Coastal Engineering, Sep., 2019.
+
+#. Wang, G., Liang, Q., and Shi, F., Analytical and Numerical Investigation of Trapped Ocean Waves along a Submerged Ridge,submitted to Proceedings of the Royal Society A, Aug., 2019. 
 
 #. Choi, Y.-K., Seo, S.-N., Choi, J.-Y., Shi, F., and Park, K.-S., Numerical modeling of rip currents at the Haeundae Beach using the FUNWAVE-TVD model, submitted to Journal of Coastal Research
 
