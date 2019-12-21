@@ -11,7 +11,7 @@ Journal Publications
 
 #. Shi, J., Shi, F., Kirby, J. T., Zheng, J., Zhang, C., and Malej, M., 2019, "Interplay between grid resolution and pressure decimation in non-hydrostatic modeling of  internal waves", Ocean Engineering, `DOI:10.1016/j.oceaneng.2019.06.014 <https://doi.org/10.1016/j.oceaneng.2019.06.014>`_.
 
-#. Ding, Y. and Shi, F., 2019, "An analytical solution for nearshore circulation driven by focused/defocused waves", China Ocean Engineering, in press
+#. Ding, Y. and Shi, F., 2019, "An analytical solution for nearshore circulation driven by focused/defocused waves", China Ocean Engineering,  33, 544-553
 
 #. Choi Y.-K., Seo S.-N., Choi J.-Y., Shi F., Park K.-S., 2019, "Wave prediction in a port using a fully nonlinear Boussinesq wave model", Acta Oceanol. Sin., 38 (7), 1-12. `DOI:10.1007/s13131-019-1456-2 <https://link.springer.com/article/10.1007/s13131-019-1456-2>`_.
 
