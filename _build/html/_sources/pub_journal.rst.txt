@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Liu, W., Ning, Y., Shi, F., and Sun Z., 2020 "A 2DH fully dispersive Boussinesq-type model based on a finite-volume and finite-difference TVD-type scheme", Ocean Modelling, in press
+#. Liu, W., Ning, Y., Shi, F., and Sun Z., 2020 "A 2DH fully dispersive Boussinesq-type model based on a finite-volume and finite-difference TVD-type scheme", Ocean Modelling, 47, `DOI: 10.1016/j.ocemod.2019.101559  <https://doi.org/10.1016/j.ocemod.2019.101559>`_.
 
 #. Li, L., Shi, F., Ma, G., and Qui, Q., 2019, "Tsunamigenic potential of Baiyun submarine landslide in the South China Sea", Journal of Geophysical Research: Solid Earth,  `DOI:10.1029/2019JB018062 <https://doi.org/10.1029/2019JB018062>`_. 
 
