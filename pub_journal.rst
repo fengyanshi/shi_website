@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., 2020, "A computationally efficient subgrid model for coupledsurface and groundwater flows", Coastal Engineering, in press.
+
 #. Liu, W., Ning, Y., Shi, F., and Sun Z., 2020 "A 2DH fully dispersive Boussinesq-type model based on a finite-volume and finite-difference TVD-type scheme", Ocean Modelling, 47, `DOI: 10.1016/j.ocemod.2019.101559  <https://doi.org/10.1016/j.ocemod.2019.101559>`_.
 
 #. Li, L., Shi, F., Ma, G., and Qui, Q., 2019, "Tsunamigenic potential of Baiyun submarine landslide in the South China Sea", Journal of Geophysical Research: Solid Earth,  `DOI:10.1029/2019JB018062 <https://doi.org/10.1029/2019JB018062>`_. 
@@ -115,7 +117,6 @@ Journal Publications
 
 #. Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T., Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, in revision.
 
-#. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., A computationally efficient subgrid model for coupledsurface and groundwater flows, submitted to Coastal Engineering, in revision.
 
 #. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, submitted to JFM, 2019. 
 
