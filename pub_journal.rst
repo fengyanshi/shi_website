@@ -124,6 +124,9 @@ Journal Publications
 
 #. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", submitted to Journal of Advances in Modeling Earth Systems, Nov, 2019
 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", submitted to Ocean Modelling, Feb. 2020. 
+
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", submitted to Ocean Modelling, Feb. 2020. 
 
 
 
