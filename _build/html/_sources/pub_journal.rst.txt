@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., 2020, "A computationally efficient subgrid model for coupledsurface and groundwater flows", Coastal Engineering, in press.
+#. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., 2020, "A computationally efficient subgrid model for coupledsurface and groundwater flows", Coastal Engineering, 157, 103665, `DOI: 10.1016/j.coastaleng.2020.103665  <https://doi.org/10.1016/j.coastaleng.2020.103665>`_.
 
 #. Liu, W., Ning, Y., Shi, F., and Sun Z., 2020 "A 2DH fully dispersive Boussinesq-type model based on a finite-volume and finite-difference TVD-type scheme", Ocean Modelling, 47, `DOI: 10.1016/j.ocemod.2019.101559  <https://doi.org/10.1016/j.ocemod.2019.101559>`_.
 
@@ -122,7 +122,7 @@ Journal Publications
 
 #. Bao, J., Cai, F., Shi, F., Zheng, Y., Lu, H., Wu, C., "Morphodynamic response of sand waves in the Taiwan Shoal to a passing tropical storm", Marine Geology, 2019, in revision.
 
-#. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", submitted to Journal of Advances in Modeling Earth Systems, Nov, 2019
+#. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", Journal of Advances in Modeling Earth Systems, in revision.
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", submitted to Ocean Modelling, Feb. 2020. 
 
