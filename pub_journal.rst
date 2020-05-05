@@ -3,9 +3,11 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., 2020, "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", Journal of Advances in Modeling Earth Systems, in press.
+#. Puleo, J. A., Cristaudo, D., Torres-Freyermuth, A., Masselink, G., and Shi, F., 2020, The role of alongshore flows on inner surf and swash zone hydrodynamics on a dissipative beach, Continental Shelf Research, `DOI: 10.1016/j.csr.2020.104134 <https://doi.org/10.1016/j.csr.2020.104134>`_.
 
-#. Bao, J., Cai, F., Shi, F., Zheng, Y., Lu, H., Wu, C., 2020， "Morphodynamic response of sand waves in the Taiwan Shoal to a passing tropical storm", Marine Geology, in press.
+#. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., 2020, "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", Journal of Advances in Modeling Earth Systems, `doi: 10.1029/2019MS001957 <https://doi.org/10.1029/2019MS001957>`_
+
+#. Bao, J., Cai, F., Shi, F., Zheng, Y., Lu, H., Wu, C., 2020， "Morphodynamic response of sand waves in the Taiwan Shoal to a passing tropical storm", Marine Geology, `doi: 10.1016/j.margeo.2020.106196 <https://doi.org/10.1016/j.margeo.2020.106196>`_
 
 #. Chen, Y., Shi, F., Kirby, J. T., and Liang, B., 2020, "A computationally efficient subgrid model for coupledsurface and groundwater flows", Coastal Engineering, 157, 103665, `DOI: 10.1016/j.coastaleng.2020.103665  <https://doi.org/10.1016/j.coastaleng.2020.103665>`_.
 
