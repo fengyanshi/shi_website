@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T., Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, in press.
+
 #. Puleo, J. A., Cristaudo, D., Torres-Freyermuth, A., Masselink, G., and Shi, F., 2020, The role of alongshore flows on inner surf and swash zone hydrodynamics on a dissipative beach, Continental Shelf Research, `DOI: 10.1016/j.csr.2020.104134 <https://doi.org/10.1016/j.csr.2020.104134>`_.
 
 #. Yuan, Y., Shi, F., Kirby, J. T., and Yu, F., 2020, "Multiple-GPU acceleration of the Boussinesq-type wave model FUNWAVE-TVD", Journal of Advances in Modeling Earth Systems, `doi: 10.1029/2019MS001957 <https://doi.org/10.1029/2019MS001957>`_
@@ -120,8 +122,6 @@ Journal Publications
 #.	Shi, F. and Sun, W., 1993, Numerical simulations of storm surge inundations in partial areas of the Bohai Sea, Oceanol. Limnol. Sinica, 24 (1), 16-23.
 
 **Papers submitted or in revision:**
-
-#. Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T., Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, in revision.
 
 
 #. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, submitted to JFM, 2019. 
