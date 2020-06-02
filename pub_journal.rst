@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T., Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, in press.
+#. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T.,2020, Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, `DOI: 10.1016/j.coastaleng.2020.103735 <https://doi.org/10.1016/j.coastaleng.2020.103735>`_.
 
 #. Puleo, J. A., Cristaudo, D., Torres-Freyermuth, A., Masselink, G., and Shi, F., 2020, The role of alongshore flows on inner surf and swash zone hydrodynamics on a dissipative beach, Continental Shelf Research, `DOI: 10.1016/j.csr.2020.104134 <https://doi.org/10.1016/j.csr.2020.104134>`_.
 
