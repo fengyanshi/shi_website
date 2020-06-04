@@ -16,6 +16,7 @@ NUMERICAL LABORATORY
    publication
    gallery
    members
+   tmp
 
 * `Center for Applied Coastal Research (CACR)  <https://coastal.udel.edu/>`_
 
