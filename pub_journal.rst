@@ -131,5 +131,9 @@ Journal Publications
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", submitted to Ocean Modelling, Feb. 2020. 
 
+#. Tehranirad, B., Kirby, J. T., and Shi, F., A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision. 
+
+#. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
+
 
 
