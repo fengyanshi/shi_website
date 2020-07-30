@@ -135,5 +135,7 @@ Journal Publications
 
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
 
+#. Tehranirad, B., Kirby, J. T., Shi, T.,  A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision
+
 
 
