@@ -127,9 +127,9 @@ Journal Publications
 #. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, submitted to JFM, 2019. 
 
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", submitted to Ocean Modelling, Feb. 2020. 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", submitted to Ocean Modelling, in revision. 
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", submitted to Ocean Modelling, Feb. 2020. 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", submitted to Ocean Modelling, in revision. 
 
 #. Tehranirad, B., Kirby, J. T., and Shi, F., A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision. 
 
