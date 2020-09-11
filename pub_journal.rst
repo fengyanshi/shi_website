@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T.,2020, Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, submitted to Coastal Engineering, `DOI: 10.1016/j.coastaleng.2020.103735 <https://doi.org/10.1016/j.coastaleng.2020.103735>`_.
+#. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T.,2020, Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, Coastal Engineering, `DOI: 10.1016/j.coastaleng.2020.103735 <https://doi.org/10.1016/j.coastaleng.2020.103735>`_.
 
 #. Puleo, J. A., Cristaudo, D., Torres-Freyermuth, A., Masselink, G., and Shi, F., 2020, The role of alongshore flows on inner surf and swash zone hydrodynamics on a dissipative beach, Continental Shelf Research, `DOI: 10.1016/j.csr.2020.104134 <https://doi.org/10.1016/j.csr.2020.104134>`_.
 
@@ -134,6 +134,8 @@ Journal Publications
 #. Tehranirad, B., Kirby, J. T., and Shi, F., A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision. 
 
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
+
+# Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Hydrological Processes, Aug, 2020
 
 
 
