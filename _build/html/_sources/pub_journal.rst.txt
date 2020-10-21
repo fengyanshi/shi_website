@@ -124,18 +124,20 @@ Journal Publications
 **Papers submitted or in revision:**
 
 
-#. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, submitted to JFM, 2019. 
+#. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, JFM, in revision. 
 
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", submitted to Ocean Modelling, in revision. 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in revision. 
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", submitted to Ocean Modelling, in revision. 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", Ocean Modelling, in revision. 
 
 #. Tehranirad, B., Kirby, J. T., and Shi, F., A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision. 
 
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
 
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Earth Surface Processes and Landforms, Sep, 2020
+
+#. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, in revision. 
 
 
 
