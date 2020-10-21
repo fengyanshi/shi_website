@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Tehranirad, B., Kirby, J. T., and Shi, F., 2020, A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in press. 
+
 #. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T.,2020, Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, Coastal Engineering, `DOI: 10.1016/j.coastaleng.2020.103735 <https://doi.org/10.1016/j.coastaleng.2020.103735>`_.
 
 #. Puleo, J. A., Cristaudo, D., Torres-Freyermuth, A., Masselink, G., and Shi, F., 2020, The role of alongshore flows on inner surf and swash zone hydrodynamics on a dissipative beach, Continental Shelf Research, `DOI: 10.1016/j.csr.2020.104134 <https://doi.org/10.1016/j.csr.2020.104134>`_.
@@ -130,8 +132,6 @@ Journal Publications
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in revision. 
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", Ocean Modelling, in revision. 
-
-#. Tehranirad, B., Kirby, J. T., and Shi, F., A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in revision. 
 
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
 
