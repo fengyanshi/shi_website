@@ -3,7 +3,9 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Tehranirad, B., Kirby, J. T., and Shi, F., 2020, A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, in press. 
+#. Wang, G., Liang, Q., and Shi, F., 2020, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
+
+#. Tehranirad, B., Kirby, J. T., and Shi, F., 2020, A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, `DOI: 10.1007/s00024-020-02614-w <https://doi-org.udel.idm.oclc.org/10.1007/s00024-020-02614-w>`_. 
 
 #. Grilli, A., Westcott, G., Grilli, S., Spaulding, M., Shi, F., and Kirby, J.T.,2020, Assessing coastal risk from extreme storms with a phase resolving wave model: Case Study of Narragansett, RI, USA, Coastal Engineering, `DOI: 10.1016/j.coastaleng.2020.103735 <https://doi.org/10.1016/j.coastaleng.2020.103735>`_.
 
@@ -125,8 +127,6 @@ Journal Publications
 
 **Papers submitted or in revision:**
 
-
-#. Wang, G., Liang, Q., and Shi, F., Analytical and numerical investigation of trapped ocean waves along a submerged ridge, JFM, in revision. 
 
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in revision. 
