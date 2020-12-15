@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, in press. 
+
 #. Wang, G., Liang, Q., and Shi, F., Zheng J., 2020, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
 
 #. Tehranirad, B., Kirby, J. T., and Shi, F., 2020, A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, `DOI: 10.1007/s00024-020-02614-w <https://doi-org.udel.idm.oclc.org/10.1007/s00024-020-02614-w>`_. 
@@ -137,7 +139,7 @@ Journal Publications
 
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Earth Surface Processes and Landforms, Sep, 2020
 
-#. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, in revision. 
+
 
 
 
