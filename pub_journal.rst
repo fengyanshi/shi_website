@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in press I don't if you added ok. 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in press. 
 
 #. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, in press. 
 
