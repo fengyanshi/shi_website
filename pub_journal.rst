@@ -5,7 +5,7 @@ Journal Publications
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in press. 
 
-#. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, in press. 
+#. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, 2020. A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, `DOI: 10.1029/2020JC016676 <https://doi.org/10.1029/2020JC016676>`_.
 
 #. Wang, G., Liang, Q., and Shi, F., Zheng J., 2020, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
 
