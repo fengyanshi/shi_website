@@ -3,11 +3,11 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, in press. 
+#. Wang, G., Liang, Q., and Shi, F., Zheng J., 2021, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
+
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, `DOI:10.1016/j.ocemod.2020.101749 <https://doi.org/10.1016/j.ocemod.2020.101749>`_.
 
 #. Forlini, C., Qayyum, R., Malej, M., Lam, M.-A. Shi, F. Angelini, C. Sheremet, 2020. A., On the Problem of Modeling the Boat Wake Climate; the Florida Intracoastal Waterway, Journal of Geophysical Research - Oceans, `DOI: 10.1029/2020JC016676 <https://doi.org/10.1029/2020JC016676>`_.
-
-#. Wang, G., Liang, Q., and Shi, F., Zheng J., 2020, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
 
 #. Tehranirad, B., Kirby, J. T., and Shi, F., 2020, A model for tsunami-induced morphology adjustment, Pure and Applied Geophysics, `DOI: 10.1007/s00024-020-02614-w <https://doi-org.udel.idm.oclc.org/10.1007/s00024-020-02614-w>`_. 
 
