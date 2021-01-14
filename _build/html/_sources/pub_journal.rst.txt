@@ -132,8 +132,7 @@ Journal Publications
 **Papers submitted or in revision:**
 
 
-
-
+#. Ye, Z., Shi, F., Zhao X., Hu, Z., and Malej, M., 2020, A data-driven approach to modeling subgrid-scale shallow marshhydrodynamics, Coastal Engineering, in revision.
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation.", Ocean Modelling, in revision. 
 
