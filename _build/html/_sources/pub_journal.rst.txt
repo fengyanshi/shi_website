@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., 2021, Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in press. 
+
 #. Wang, G., Liang, Q., and Shi, F., Zheng J., 2021, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, "A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 1. Theoretical basis.", Ocean Modelling, `DOI:10.1016/j.ocemod.2020.101749 <https://doi.org/10.1016/j.ocemod.2020.101749>`_.
@@ -136,7 +138,6 @@ Journal Publications
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, in revision. 
 
-#. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., 2021m Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in revision. 
 
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Earth Surface Processes and Landforms, Sep, 2020
 
