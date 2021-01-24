@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Ye, Z., Shi, F., Zhao X., Hu, Z., and Malej, M., 2021, A data-driven approach to modeling subgrid-scale shallow marshhydrodynamics, Coastal Engineering, in press.
+
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., 2021, Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in press. 
 
 #. Wang, G., Liang, Q., and Shi, F., Zheng J., 2021, Analytical and numerical investigation of trapped ocean waves along a submerged ridge, Journal of Fluid Mechanics, in press 
@@ -132,9 +134,6 @@ Journal Publications
 #.	Shi, F. and Sun, W., 1993, Numerical simulations of storm surge inundations in partial areas of the Bohai Sea, Oceanol. Limnol. Sinica, 24 (1), 16-23.
 
 **Papers submitted or in revision:**
-
-
-#. Ye, Z., Shi, F., Zhao X., Hu, Z., and Malej, M., 2021, A data-driven approach to modeling subgrid-scale shallow marshhydrodynamics, Coastal Engineering, in revision.
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, in revision. 
 
