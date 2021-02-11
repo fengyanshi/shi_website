@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, in press. 
+
 #. Ye, Z., Shi, F., Zhao X., Hu, Z., and Malej, M., 2021, A data-driven approach to modeling subgrid-scale shallow marshhydrodynamics, Coastal Engineering, in press.
 
 #. Yuan, Y., Li, H., Wei, Y., Shi, F., Wang, Z., Hou, J., Wang, P., and Xu, Z., 2021, Probabilistic Tsunami Hazard Assessment (PTHA) for southeast coast of Mainland China and Taiwan Island, Journal of Geophysical Research, Solid Earth, in press. 
@@ -135,7 +137,6 @@ Journal Publications
 
 **Papers submitted or in revision:**
 
-#. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, in revision. 
 
 
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Earth Surface Processes and Landforms, Sep, 2020
