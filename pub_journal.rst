@@ -141,7 +141,9 @@ Journal Publications
 
 #. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., Grilli, S. T., Block-structured, equal workload, multigrid nesting1interface for Boussinesq wave model FUNWAVE-TVD, submitted to Journal of Advances in Modeling Earth Systems, May, 2021. 
 
-#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, submitted to Earth Surface Processes and Landforms, Sep, 2020
+#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, Coastal Engineering, in revision. 
+
+#. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021. 
 
 
 
