@@ -143,7 +143,9 @@ Journal Publications
 
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, Coastal Engineering, in revision. 
 
-#. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021. 
+#. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
+
+#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, submitted to Journal of Geophysical Research - Ocean. July 2021
 
 
 
