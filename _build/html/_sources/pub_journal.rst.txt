@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., 2021, Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, in press. 
+
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, `DOI:10.1016/j.ocemod.2021.101769 <https://doi.org/10.1016/j.ocemod.2021.101769>`_
 
 #. Ye, Z., Shi, F., Zhao X., Hu, Z., and Malej, M., 2021, A data-driven approach to modeling subgrid-scale shallow marshhydrodynamics, Coastal Engineering, `DOI:10.1016/j.coastaleng.2021.103856 <https://doi.org/10.1016/j.coastaleng.2021.103856>`_
@@ -136,8 +138,6 @@ Journal Publications
 #.	Shi, F. and Sun, W., 1993, Numerical simulations of storm surge inundations in partial areas of the Bohai Sea, Oceanol. Limnol. Sinica, 24 (1), 16-23.
 
 **Papers submitted or in revision:**
-
-#. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, in review. 
 
 #. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., Grilli, S. T., Block-structured, equal workload, multigrid nesting1interface for Boussinesq wave model FUNWAVE-TVD, submitted to Journal of Advances in Modeling Earth Systems, May, 2021. 
 
