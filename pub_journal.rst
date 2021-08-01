@@ -145,7 +145,9 @@ Journal Publications
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
-#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, submitted to Journal of Geophysical Research - Ocean. July 2021
+#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, submitted to Journal of Geophysical Research - Ocean, in revision.
+
+#. Simpson, A. J., Shi, F., Jurisa, J. T.,  Honegger, D., Hsu, T.-J., Haller, M.C., Observations and modeling of a buoyant plume exiting into a tidal cross-flow and exhibiting along-front instabilities, submitted to Journal of Geophysical Research - Ocean. July 2021
 
 
 
