@@ -3,7 +3,7 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., 2021, Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, in press. 
+#. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., 2021, Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, 147(6): 05021015, `DOI:10.1061/(ASCE)WW.1943-5460.0000676 <https://doi.org/10.1061/(ASCE)WW.1943-5460.0000676>`_
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, `DOI:10.1016/j.ocemod.2021.101769 <https://doi.org/10.1016/j.ocemod.2021.101769>`_
 
