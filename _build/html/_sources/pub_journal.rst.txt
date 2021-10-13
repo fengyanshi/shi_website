@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., 2021, Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, Journal of Geophysical Research - Ocean, in press.
+
 #. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., 2021, Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, 147(6): 05021015, `DOI:10.1061/(ASCE)WW.1943-5460.0000676 <https://doi.org/10.1061/(ASCE)WW.1943-5460.0000676>`_
 
 #. Zhang, C, Kirby, J. T., Shi, F., Ma, G., and Grilli, S., 2021, A two-layer non-hydrostatic landslide model for tsunami generation on irregular bathymetry. Part 2. Numerical discretization and model validation., Ocean Modelling, `DOI:10.1016/j.ocemod.2021.101769 <https://doi.org/10.1016/j.ocemod.2021.101769>`_
@@ -145,9 +147,11 @@ Journal Publications
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
-#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, submitted to Journal of Geophysical Research - Ocean, in revision.
-
 #. Simpson, A. J., Shi, F., Jurisa, J. T.,  Honegger, D., Hsu, T.-J., Haller, M.C., Observations and modeling of a buoyant plume exiting into a tidal cross-flow and exhibiting along-front instabilities, submitted to Journal of Geophysical Research - Ocean. July 2021
+
+#. Luo, Y., Zhang, C., Liu, J., Xing, H., Zhou, F., Wang, D., Long, X., Wang, S., Wang, W., Shi, F., Identifying ship-wakes in a shallow estuary using machine learning, submitted to Ocean Engineering, Sept. 2021.
+
+#. Zhu, J.,  Shi, F.,  Cai, F., Wang, Q., Qi, H., Zhan, C., Liu, J.,  Liu, G., Lei, G., Influences of beach berm height on beach response to storms:  a numerical study, submitted to Coastal Engineering, Sept. 2021.
 
 
 
