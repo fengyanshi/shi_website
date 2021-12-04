@@ -3,7 +3,9 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., 2021, Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, Journal of Geophysical Research - Ocean, in press.
+#. Deb, M., Abdolali, A., Kirby, J. T., Shi, F., Guiteras, S., McDowell, C., 2021 Sensitivity of tidal hydrodynamics to varying bathymetric configurations in a multi-inlet rapidly eroding salt marsh system: A numerical study, Earth Surface Processes and Landforms, in press
+
+#. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., 2021, Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, Journal of Geophysical Research - Ocean,  `DOI:1029/2021JC017641 <https://doi.org/10.1029/2021JC017641>`_
 
 #. Malej, M., Shi, F., Smith, J. M., Cuomo, G., and Tozer, N., 2021, Boussinesq-type modeling of low-frequency wave motions at Marina di Carrara, Journal of Waterway, Port, Coastal and Ocean Engineering, 147(6): 05021015, `DOI:10.1061/(ASCE)WW.1943-5460.0000676 <https://doi.org/10.1061/(ASCE)WW.1943-5460.0000676>`_
 
