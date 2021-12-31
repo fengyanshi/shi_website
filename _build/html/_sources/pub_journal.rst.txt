@@ -3,7 +3,9 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Deb, M., Abdolali, A., Kirby, J. T., Shi, F., Guiteras, S., McDowell, C., 2021 Sensitivity of tidal hydrodynamics to varying bathymetric configurations in a multi-inlet rapidly eroding salt marsh system: A numerical study, Earth Surface Processes and Landforms, in press
+#. Kirby, J. T., Grilli, S., T., Horrillo, J., Liu, P., L.-F., Nicolsky,D., Abadie, S., Ataie-Ashtiani, B., Castro, M., J.,  Clous, L., Escalante, C., Fine, I., Gonz ́alez-Vida, J. M., Løvholt, F., Lynett, P., Ma, G., Mac ́ıas, J., Ortega, S., Shi, F., Yavari-Ramshe, S., Zhang, C., 2021, Validation and inter-comparison of models for landslide tsunami generation, Ocean Modelling, in press.
+
+#. Deb, M., Abdolali, A., Kirby, J. T., Shi, F., Guiteras, S., McDowell, C., 2021 Sensitivity of tidal hydrodynamics to varying bathymetric configurations in a multi-inlet rapidly eroding salt marsh system: A numerical study, Earth Surface Processes and Landforms,  `DOI:10.1002/esp.5308 <https://doi.org/10.1002/esp.5308>`_
 
 #. Salatin, R., Chen, Q., Bak, A. S., Shi, F., and Brandt, S. R., 2021, Effects of Wave Coherence on Longshore Variability of Nearshore Wave Processes, Journal of Geophysical Research - Ocean,  `DOI:1029/2021JC017641 <https://doi.org/10.1029/2021JC017641>`_
 
@@ -145,7 +147,7 @@ Journal Publications
 
 #. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., Grilli, S. T., Block-structured, equal workload, multigrid nesting1interface for Boussinesq wave model FUNWAVE-TVD, submitted to Journal of Advances in Modeling Earth Systems, May, 2021. 
 
-#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Sensitivity of tidal hydrodynamics to morphology changes in a multi-inlet rapidly eroding salt marsh system: A numerical study, Coastal Engineering, in revision. 
+#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resoluton, Coastal Engineering, in revision. 
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
