@@ -3,6 +3,8 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., 2022. Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resoluton, Coastal Engineering, in press. 
+
 #. Zhu, J.,  Shi, F.,  Cai, F., Wang, Q., Qi, H., Zhan, C., Liu, J.,  Liu, G., Lei, G., 2022. Influences of beach berm height on beach response to storms:  a numerical study, Applied Ocean Research, in press. 
 
 #. Simpson, A. J., Shi, F., Jurisa, J. T.,  Honegger, D., Hsu, T.-J., Haller, M.C., 2022. Observations and modeling of a buoyant plume exiting into a tidal cross-flow and exhibiting along-front instabilities, Journal of Geophysical Research - Ocean,  `DOI:10.1029/2021JC017799 <https://doi-org.udel.idm.oclc.org/10.1029/2021JC017799>`_
@@ -152,8 +154,6 @@ Journal Publications
 **Papers submitted or in revision:**
 
 #. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., Grilli, S. T., Block-structured, equal workload, multigrid nesting1interface for Boussinesq wave model FUNWAVE-TVD, submitted to Journal of Advances in Modeling Earth Systems, May, 2021. 
-
-#. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resoluton, Coastal Engineering, in revision. 
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
