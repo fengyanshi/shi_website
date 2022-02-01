@@ -3,11 +3,13 @@ Journal Publications
 
 **Papers in Journals:**
 
-#. Simpson, A. J., Shi, F., Jurisa, J. T.,  Honegger, D., Hsu, T.-J., Haller, M.C., Observations and modeling of a buoyant plume exiting into a tidal cross-flow and exhibiting along-front instabilities, Journal of Geophysical Research - Ocean, in press
+#. Zhu, J.,  Shi, F.,  Cai, F., Wang, Q., Qi, H., Zhan, C., Liu, J.,  Liu, G., Lei, G., 2022. Influences of beach berm height on beach response to storms:  a numerical study, Applied Ocean Research, in press. 
 
-#. Luo, Y., Zhang, C., Liu, J., Xing, H., Zhou, F., Wang, D., Long, X., Wang, S., Wang, W., Shi, F., Identifying ship-wakes in a shallow estuary using machine learning, Ocean Engineering, in press.
+#. Simpson, A. J., Shi, F., Jurisa, J. T.,  Honegger, D., Hsu, T.-J., Haller, M.C., 2022. Observations and modeling of a buoyant plume exiting into a tidal cross-flow and exhibiting along-front instabilities, Journal of Geophysical Research - Ocean,  `DOI:10.1029/2021JC017799 <https://doi-org.udel.idm.oclc.org/10.1029/2021JC017799>`_
 
-#. Kirby, J. T., Grilli, S., T., Horrillo, J., Liu, P., L.-F., Nicolsky,D., Abadie, S., Ataie-Ashtiani, B., Castro, M., J.,  Clous, L., Escalante, C., Fine, I., Gonz ́alez-Vida, J. M., Løvholt, F., Lynett, P., Ma, G., Mac ́ıas, J., Ortega, S., Shi, F., Yavari-Ramshe, S., Zhang, C., 2021, Validation and inter-comparison of models for landslide tsunami generation, Ocean Modelling, in press.
+#. Luo, Y., Zhang, C., Liu, J., Xing, H., Zhou, F., Wang, D., Long, X., Wang, S., Wang, W., Shi, F., 2022. Identifying ship-wakes in a shallow estuary using machine learning, Ocean Engineering, 246, 110456. `DOI:10.1016/j.oceaneng.2021.110456 <https://doi.org/10.1016/j.oceaneng.2021.110456>`_
+
+#. Kirby, J. T., Grilli, S., T., Horrillo, J., Liu, P., L.-F., Nicolsky,D., Abadie, S., Ataie-Ashtiani, B., Castro, M., J.,  Clous, L., Escalante, C., Fine, I., Gonz ́alez-Vida, J. M., Løvholt, F., Lynett, P., Ma, G., Mac ́ıas, J., Ortega, S., Shi, F., Yavari-Ramshe, S., Zhang, C., 2022, Validation and inter-comparison of models for landslide tsunami generation, Ocean Modelling, Vol.170, 101943. `DOI:10.1016/j.ocemod.2021.101943 <https://doi.org/10.1016/j.ocemod.2021.101943>`_
 
 #. Deb, M., Abdolali, A., Kirby, J. T., Shi, F., Guiteras, S., McDowell, C., 2021 Sensitivity of tidal hydrodynamics to varying bathymetric configurations in a multi-inlet rapidly eroding salt marsh system: A numerical study, Earth Surface Processes and Landforms,  `DOI:10.1002/esp.5308 <https://doi.org/10.1002/esp.5308>`_
 
@@ -155,7 +157,8 @@ Journal Publications
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
-#. Zhu, J.,  Shi, F.,  Cai, F., Wang, Q., Qi, H., Zhan, C., Liu, J.,  Liu, G., Lei, G., Influences of beach berm height on beach response to storms:  a numerical study, submitted to Applied Ocean Research, Sept. 2021.
+#. Deb, M., Kirby, J. T., Shi, F., Abdolali, A., A surface porosity approach for eliminating artificial ponding in coastal salt marsh simulations, submitted to JGR Earth Surface, Feb 2022. 
+
 
 
 
