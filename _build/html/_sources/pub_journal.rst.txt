@@ -3,6 +3,10 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., and Grilli, S. T.: Block-structured, equal-workload, multi-grid-nesting interface for the Boussinesq wave model FUNWAVE-TVD (Total Variation Diminishing), 2022, Geosci. Model Dev., 15, 5441–5459, `DOI:10.5194/gmd-15-5441-2022 <https://doi.org/10.5194/gmd-15-5441-2022>`_
+
+#. Everett C.L., Williams O., Ruggiero E., Larner M., Schaefer R., Malej M., Shi F.,Bruck J. and Puleo J.A., 2022, Ship wake forcing and performance of a living shoreline segment on an estuarine shoreline. Front. Built Environ. 8:917945.`DOI: 10.3389/fbuil.2022.917945 <https://doi.org/10.3389/fbuil.2022.917945>`_
+
 #. Deb, M., Abdolali, Kirby, J. T., Shi, F., and Guiteras, S., 2022. Hydrodynamic modeling of a complex salt marsh system: Importance of channel shoreline and bathymetric resoluton, Coastal Engineering, Volume 173, April 2022, 104094, `DOI:10.1016/j.coastaleng.2022.104094 <https://doi.org/10.1016/j.coastaleng.2022.104094>`_
 
 #. Zhu, J.,  Shi, F.,  Cai, F., Wang, Q., Qi, H., Zhan, C., Liu, J.,  Liu, G., Lei, G., 2022. Influences of beach berm height on beach response to storms:  a numerical study, Applied Ocean Research, Volume 121, April 2022, 103090, `DOI:10.1016/j.apor.2022.103090 <https://doi.org/10.1016/j.apor.2022.103090>`_
