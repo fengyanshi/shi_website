@@ -3,6 +3,10 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Sun, Q., Wang, Q., Shi, F., Alves, T., Gao, S., Xie, X., Wu, S., and Li, J., 2022, Runup of landslide-generated tsunamis controlled by paleogeography and sea-level change, Nature Communications Earth & Environment, in press
+
+#. Zhang, Y., Shi, F., Kirby, J. T., and Feng, X., 2022, Phase-resolved modeling of wave interference and its effects on nearshore circulation in a large ebb shoal-beach system, Journal of Geophysical Research - Ocean, `DOI:10.1029/2022JC018623 <https://doi.org/10.1029/2022JC018623>`_
+
 #. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., and Grilli, S. T.: Block-structured, equal-workload, multi-grid-nesting interface for the Boussinesq wave model FUNWAVE-TVD (Total Variation Diminishing), 2022, Geosci. Model Dev., 15, 5441–5459, `DOI:10.5194/gmd-15-5441-2022 <https://doi.org/10.5194/gmd-15-5441-2022>`_
 
 #. Everett C.L., Williams O., Ruggiero E., Larner M., Schaefer R., Malej M., Shi F.,Bruck J. and Puleo J.A., 2022, Ship wake forcing and performance of a living shoreline segment on an estuarine shoreline. Front. Built Environ. 8:917945.`DOI: 10.3389/fbuil.2022.917945 <https://doi.org/10.3389/fbuil.2022.917945>`_
@@ -157,9 +161,6 @@ Journal Publications
 
 **Papers submitted or in revision:**
 
-#. Choi, Y.-K., Shi, F., Malej, M., Smith, J. M., Kirby, J. T., Grilli, S. T., Block-structured, equal workload, multigrid nesting1interface for Boussinesq wave model FUNWAVE-TVD, submitted to Geoscientific Model Developmen, Apr, 2022. 
-
-#. Zhang, Y., Shi, F., Kirby, J. T., and Feng, X., Phase-resolved modeling of wave interference and its effects on nearshore circulation in a large ebb shoal-beach system, submitted to Journal of Geophysical Research - Ocean, Apr, 2022.  
 
 #. Barsi, L. and Shi, F. Non-hydrostatic modelling of wave breaking using the k-ω turbulence closure with a global stress-limiter, submitted to Ocean Modelling, May, 2021.
 
