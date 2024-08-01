@@ -3,6 +3,10 @@ Journal Publications
 
 **Papers in Journals:**
 
+#. Shi, F., Simpson, A., and Hsu, T., 2024, Modeling lobe-and-cleft instabilities on a river plume, Journal of Geophysical Research - Oceans,  `DOI:10.1029/2023JC020485 <https://doi.org/10.1029/2023JC020485>`_
+
+#. Chen, Y., Shi, F., Kirby, J. T., Liang, B., Wu, G., and Deb, M., 2023, Reducing impacts of artificial ponding in modeling salt marshes using a conductivity-formulated subgrid model, Estuarine, Coastal and Shelf Science, `DOI:10.1016/j.ecss.2023.108441 <https://doi.org/10.1016/j.ecss.2023.108441>`_
+
 #. Sun, Q., Wang, Q., Shi, F., Alves, T., Gao, S., Xie, X., Wu, S., and Li, J., 2022, Runup of landslide-generated tsunamis controlled by paleogeography and sea-level change, Nature Communications Earth & Environment, `DOI:10.1038/s43247-022-00572-w <https://www.nature.com/articles/s43247-022-00572-w>`_
 
 #. Zhang, Y., Shi, F., Kirby, J. T., and Feng, X., 2022, Phase-resolved modeling of wave interference and its effects on nearshore circulation in a large ebb shoal-beach system, Journal of Geophysical Research - Ocean, `DOI:10.1029/2022JC018623 <https://doi.org/10.1029/2022JC018623>`_
